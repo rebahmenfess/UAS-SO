@@ -1,3 +1,2 @@
-# UAS-SO
-Covid-19
+# Covid-19
 Repository ini dibuat untuk mengerjakan UAS SO
